@@ -1,0 +1,2 @@
+java ElevatorSimulation
+javac --release 25 ElevatorSimulation.java
